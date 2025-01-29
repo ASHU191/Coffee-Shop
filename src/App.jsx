@@ -7,7 +7,7 @@ import Banner from "./components/Banner/Banner";
 import AppStore from "./components/AppStore/AppStore";
 import Testimonials from "./components/Testimonials/Testimonials";
 import Footer from "./components/Footer/Footer";
-import Products from "./components/Pages/Products";
+import Products from "./components/Pages/Products";                             
 import AOS from "aos";
 import "aos/dist/aos.css";
 import Checkout from './components/Pages/Checkout';
